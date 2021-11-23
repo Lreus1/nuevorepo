@@ -1,0 +1,3 @@
+Cada vez que se acerce a menos de 10px, dispara un proyectil.
+
+Comienzo.
